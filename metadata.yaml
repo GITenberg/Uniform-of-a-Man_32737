@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '34175'
     url: http://www.gutenberg.org/2009/agents/34175
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32737#Uniform-of-a-Man
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2010-06-07'
 gutenberg_type: Text
